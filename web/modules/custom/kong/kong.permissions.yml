@@ -1,0 +1,60 @@
+add proxy entities:
+  title: 'Create new Proxy entities'
+
+administer proxy entities:
+  title: 'Administer Proxy entities'
+  description: 'Allow to access the administration form to configure Proxy entities.'
+  restrict access: true
+
+delete proxy entities:
+  title: 'Delete Proxy entities'
+
+edit proxy entities:
+  title: 'Edit Proxy entities'
+
+view published proxy entities:
+  title: 'View published Proxy entities'
+
+view unpublished proxy entities:
+  title: 'View unpublished Proxy entities'
+
+add apigateway entities:
+  title: 'Create new Apigateway entities'
+
+administer apigateway entities:
+  title: 'Administer Apigateway entities'
+  description: 'Allow to access the administration form to configure Apigateway entities.'
+  restrict access: true
+
+delete apigateway entities:
+  title: 'Delete Apigateway entities'
+
+edit apigateway entities:
+  title: 'Edit Apigateway entities'
+
+view published apigateway entities:
+  title: 'View published Apigateway entities'
+
+view unpublished apigateway entities:
+  title: 'View unpublished Apigateway entities'
+
+add policies entities:
+  title: 'Create new Policies entities'
+
+administer policies entities:
+  title: 'Administer Policies entities'
+  description: 'Allow to access the administration form to configure Policies entities.'
+  restrict access: true
+
+delete policies entities:
+  title: 'Delete Policies entities'
+
+edit policies entities:
+  title: 'Edit Policies entities'
+
+view published policies entities:
+  title: 'View published Policies entities'
+
+view unpublished policies entities:
+  title: 'View unpublished Policies entities'
+
