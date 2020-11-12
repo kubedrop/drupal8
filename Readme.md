@@ -7,7 +7,7 @@ All the configurations are managed via environment variables, some of mostly use
 are documented in the table below.
 
 ### Configuring project:
-| Parameter     | File         |   Variable   |   Default    |drupal8-demo-develop
+| Parameter     | File         |   Variable   |   Default    |
 |:--------------|:-------------|:------------:|:------------:|
 |   PHP version | .env         | PHP_VERSION  |     7.3      |
 |  Project name | .env         | PROJECT_NAME |     drupal8  |

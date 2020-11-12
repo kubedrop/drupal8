@@ -19,6 +19,7 @@
         "drupal/core-composer-scaffold": "^8.9",
         "drupal/core-project-message": "^8.9",
         "drupal/core-recommended": "^8.9",
+        "drupal/openapi": "^2.0@RC",
         "drush/drush": "^10"
     },
     "require-dev": {
